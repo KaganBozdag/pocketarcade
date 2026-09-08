@@ -1,0 +1,7 @@
+{
+  "name": "Pocket Arcade",
+  "description": "50 mini oyunluk dev mobil arcade: Retro oyunlar, bulmacalar, refleks testleri, kelime oyunları, çevrimiçi düellolar ve GitHub hesap senkronizasyonu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
